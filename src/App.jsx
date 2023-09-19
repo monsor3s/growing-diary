@@ -1,10 +1,10 @@
-import './styles/global.css'
+import { Button } from './components/Button.style'
 
 function App() {
 
   return (
     <>
-      <h1>hello world!</h1>
+      <Button>Olá</Button>
     </>
   )
 }
