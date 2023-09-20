@@ -1,10 +1,11 @@
-import { Button } from './components/Button.style'
+import Header from "./components/Header"
+
 
 function App() {
 
   return (
     <>
-      <Button>Olá</Button>
+      <Header />
     </>
   )
 }
